@@ -1,6 +1,15 @@
-## Oii, eu sou a Ágatha e no momento estou estudando Desenvolvimento de Sistemas
+## Oii, eu sou a Ágatha
+ <p> Focando em Front-end e UI/UX</p> 
+ <p>Estudando Desenvolvimento de Sistemas</p>
 
- <p>Minha meta do futuro é seguir na profissão de Dev Front-end</p> 
+<div align="center">
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathasouza113&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agathasouza113&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+<img height="150em" src="https://streak-stats.demolab.com?user=agathasouza113&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ágatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,3 +25,5 @@
   <a href="https://instagram.com/_agathaz13z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:agathasouzasenai113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
