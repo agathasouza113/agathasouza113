@@ -2,8 +2,7 @@
 <h1 align="center"> Oii, eu sou a Ágatha Souza </h1>
 
 <p align="center">
- Estudando Desenvolvimento de Sistemas <br>
- Focando em Front-end
+  Front-end • Estudante • DS
 </p>
 
 <!--Imagem de design-->
@@ -12,6 +11,7 @@
 <!--Status-->
 <div align="center">
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathasouza113&show_icons=true&theme=tokyonight"/>
+ &nbsp;
 <img height="150em" src="https://streak-stats.demolab.com?user=agathasouza113&theme=tokyonight"/>
 </div>
 
@@ -32,7 +32,7 @@
 
 - Cursando técnico em Desenvolvimento de Sistemas
 - Apaixonada por Front-end
-- Gosto de criar varias interfaces
+- Gosto de estudar e criar várias interfaces modernas
 - Aprendendo JavaScript e Flutter
 - Buscando sempre melhor
 
@@ -47,6 +47,7 @@
 <!--Redes Sociais e contato-->
 <div> 
   <a href="https://instagram.com/_agathaz13z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ &nbsp;
   <a href = "mailto:agathasouzasenai113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
