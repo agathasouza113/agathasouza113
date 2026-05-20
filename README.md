@@ -1,5 +1,5 @@
 <!-- ## Oii, eu sou a Ágatha -->
-<h1 align="center"> Oii, eu sou a Ágatha </h1>
+<h1 align="center"> Oii, eu sou a Ágatha Souza </h1>
 
 <p align="center">
  Estudando Desenvolvimento de Sistemas <br>
