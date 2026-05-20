@@ -33,7 +33,7 @@
 - Apaixonada por Front-end
 - Gosto de estudar e criar várias interfaces modernas
 - Aprendendo JavaScript e Flutter
-- Buscando sempre melhor
+- Buscando sempre melhorar
 
 <hr>
 
