@@ -26,6 +26,7 @@
 </div>
 <br>
 <hr>
+
 ## Sobre mim
 
 - Cursando técnico em Desenvolvimento de Sistemas
