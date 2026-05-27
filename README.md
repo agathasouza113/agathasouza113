@@ -6,14 +6,14 @@
 </p>
 
 <!--Imagem de design-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=fadeIn&color=0:000000,35:3B0764,70:7E22CE,100:FF00F6"/>
 
 <!--Status-->
 <div align="center">
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathasouza113&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly"/>
  &nbsp;
   
-<img height="150em" src="https://streak-stats.demolab.com?user=agathasouza113&theme=tokyonight](https://streak-stats.demolab.com?user=agathasouza113&background=000000&stroke=36123C&ring=FF00F6&fire=FF00F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00F6&sideLabels=FF00F6&dates=FFFFFF"/>
+<img height="150em" src="https://streak-stats.demolab.com?user=agathasouza113&background=000000&stroke=36123C&ring=FF00F6&fire=FF00F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00F6&sideLabels=FF00F6&dates=FFFFFF"/>
 </div>
 
 <!--Linguagens de programação e ferramentas de aprendizado-->
@@ -51,4 +51,4 @@
   <a href = "mailto:agathasouzasenai113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,35:3B0764,70:7E22CE,100:FF00F6"/>
