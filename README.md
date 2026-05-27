@@ -10,9 +10,10 @@
 
 <!--Status-->
 <div align="center">
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathasouza113&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathasouza113&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly"/>
  &nbsp;
-<img height="150em" src="https://streak-stats.demolab.com?user=agathasouza113&theme=tokyonight"/>
+  
+<img height="150em" src="https://streak-stats.demolab.com?user=agathasouza113&theme=tokyonight](https://streak-stats.demolab.com?user=agathasouza113&background=000000&stroke=36123C&ring=FF00F6&fire=FF00F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00F6&sideLabels=FF00F6&dates=FFFFFF"/>
 </div>
 
 <!--Linguagens de programação e ferramentas de aprendizado-->
