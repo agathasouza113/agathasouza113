@@ -31,14 +31,14 @@
 
 - Cursando técnico em Desenvolvimento de Sistemas
 - Apaixonada por Front-end
-- Gosto de estudar e criar várias interfaces modernas
+- Gosto de estudar e criar várias interfaces de teste
 - Aprendendo JavaScript e Flutter
 - Buscando sempre melhorar
 
 <hr>
 
 ## Objetivos
-- Aprender React
+- Aprender um framework, como React
 - Evoluir no Front-end
 - Criar interfaces modernas 
 - Trabalhar com UI/UX
