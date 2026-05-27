@@ -6,7 +6,7 @@
 </p>
 
 <!--Imagem de design-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=fadeIn&color=0:000000,35:3B0764,70:7E22CE,100:FF00F6"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=fadeIn&color=0:2A0033,35:5B21B6,70:A855F7,100:FF00F6"/>
 
 <!--Status-->
 <div align="center">
