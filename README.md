@@ -31,7 +31,7 @@
 ## Sobre mim
 
 - Cursando técnico em Desenvolvimento de Sistemas
-- Apaixonada por Front-end
+- Gosto bastante de Front-end
 - Gosto de estudar e criar várias interfaces de teste
 - Aprendendo JavaScript e Flutter
 - Buscando sempre melhorar
@@ -54,7 +54,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agathasouza113/agathasouza113/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agathasouza113/agathasouza113/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/agathasouza113/agathasouza113/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,35:3B0764,70:7E22CE,100:FF00F6"/>
