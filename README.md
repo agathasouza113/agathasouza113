@@ -23,11 +23,7 @@
 <!--Linguagens de programação e ferramentas de aprendizado-->
 <div align="center"><br>
   <h2 align="center">Linguagens e Ferramentas</h2>
-  <img align="center" alt="Ágatha-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ágatha-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Ágatha-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ágatha-Vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
- <img align="center" alt="Ágatha-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,figma,github,vscode" />
 </div>
 <br>
 <hr>
