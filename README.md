@@ -50,8 +50,8 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000000">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:agathasouzasenai113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=000000">
+  <a href="https://mail.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=000000" target="_blank">
   </a>
 </p>
 
