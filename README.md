@@ -23,7 +23,7 @@
 <!--Linguagens de programação e ferramentas de aprendizado-->
 <div align="center"><br>
   <h2 align="center">Linguagens e Ferramentas</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,github,vscode" />
 </div>
 <br>
 <hr>
