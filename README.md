@@ -45,11 +45,15 @@
 - Trabalhar com UI/UX
 
 <!--Redes Sociais e contato-->
-<div align="center"> 
-  <a href="https://instagram.com/_agathaz13z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- &nbsp;
-  <a href = "mailto:agathasouzasenai113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <a href="https://instagram.com/_agathaz13z" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000000">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:agathasouzasenai113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=000000">
+  </a>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agathasouza113/agathasouza113/output/github-contribution-grid-snake-dark.svg">
