@@ -1,5 +1,5 @@
 <!-- ## Oii, eu sou a Ágatha -->
-<h1 align="center"> Oii, eu sou a Ágatha Souza </h1>
+<h1 align="center"> Oii, eu sou a Ágatha de Souza </h1>
 <!-- Aqui está a escrita com animação-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF00F6&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Front-end+Developer+em+forma%C3%A7%C3%A3o;Apaixonada+por+design;Sempre+aprendendo+algo+novo+" alt="Typing SVG" />
