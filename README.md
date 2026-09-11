@@ -12,13 +12,19 @@
 <!--Imagem de design-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=fadeIn&color=0:2A0033,35:5B21B6,70:A855F7,100:FF00F6"/>
 
-<!--Status-->
-<div align="center">
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathasouza113&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly"/>
- &nbsp;
-  
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agathasouza113&layout=compact&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_color=36123C"/>
-</div>
+<!-- Status -->
+<table align="center">
+  <tr>
+    <td>
+      <img height="150em"
+        src="https://github-readme-stats-opal-kappa-38.vercel.app/api?username=agathasouza113&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123C&icon_color=FF00F6"/>
+    </td>
+    <td>
+      <img height="160em"
+        src="https://github-readme-stats-opal-kappa-38.vercel.app/api/top-langs/?username=agathasouza113&layout=compact&langs_count=6&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123C"/>
+    </td>
+  </tr>
+</table>
 
 <!--Linguagens de programação e ferramentas de aprendizado-->
 <div align="center"><br>
